@@ -1,0 +1,21 @@
+﻿body {
+    background-color: #ffffff !important; /* bela pozadina */
+}
+
+.swagger-ui .topbar {
+    background-color: #1f2937 !important; /* tamno siva traka gore */
+}
+
+    .swagger-ui .topbar .download-url-wrapper {
+        display: none !important; /* sakrij nepotrebni deo */
+    }
+
+.swagger-ui .info h1 {
+    color: #1f2937 !important;
+    font-weight: 600;
+}
+
+.swagger-ui .btn {
+    background-color: #2563eb !important; /* plavo dugme */
+    color: white !important;
+}
